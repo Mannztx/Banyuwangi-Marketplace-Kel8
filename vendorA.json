@@ -10,5 +10,11 @@
     "nm_brg": "Teh Celup",
     "hrg": "2000",
     "ket_stok": "habis"
+  },
+  {
+    "kd_produk": "A003",
+    "nm_brg": "Mie Instan",
+    "hrg": "3500",
+    "ket_stok": "ada"
   }
 ]
