@@ -16,5 +16,17 @@
     "nm_brg": "Mie Instan",
     "hrg": "3500",
     "ket_stok": "ada"
+  },
+  {
+    "kd_produk": "A004",
+    "nm_brg": "Telur",
+    "hrg": "3000",
+    "ket_stok": "ada"
+  },
+  {
+    "kd_produk": "A005",
+    "nm_brg": "Minyak Goreng 1L",
+    "hrg": "17000",
+    "ket_stok": "ada"
   }
 ]
