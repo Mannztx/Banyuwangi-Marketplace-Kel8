@@ -28,5 +28,17 @@
     "nm_brg": "Minyak Goreng 1L",
     "hrg": "17000",
     "ket_stok": "ada"
+  },
+   {
+    "kd_produk": "A006",
+    "nm_brg": "Tepung Terigu",
+    "hrg": "18000",
+    "ket_stok": "ada"
+  },
+  {
+    "kd_produk": "A007",
+    "nm_brg": "Kopi Bubuk",
+    "hrg": "15000",
+    "ket_stok": "ada"
   }
 ]
