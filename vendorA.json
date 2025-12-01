@@ -4,5 +4,11 @@
     "nm_brg": "Beras 5kg",
     "hrg": "50000",
     "ket_stok": "ada"
+  },
+  {
+    "kd_produk": "A002",
+    "nm_brg": "Teh Celup",
+    "hrg": "2000",
+    "ket_stok": "habis"
   }
 ]
